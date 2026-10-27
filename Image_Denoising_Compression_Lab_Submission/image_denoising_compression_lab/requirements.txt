@@ -1,0 +1,8 @@
+# Tested with Python 3.13, torch 2.10.0+cpu, Gradio 6.5.1
+numpy>=1.26,<3
+Pillow>=10,<13
+torch>=2.2,<3
+gradio>=6.0,<7
+matplotlib>=3.8,<4
+scikit-image>=0.24,<1
+pytest>=8,<10
